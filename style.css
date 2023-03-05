@@ -1,0 +1,111 @@
+html {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  body{
+      /*background: linear-gradient(to bottom, #E3DFFD, #FFF4D2, #ECF2FF, #E5D1FA);*/
+      /*background: linear-gradient(to bottom, #B5F1CC ,#E5FDD1, #C9F4AA, #F6F7C1);*/
+      height: 100%;
+      fill: cover;
+      width:100px;
+       background :linear-gradient(to bottom,#6096B4,#93BFCF,#BDCDD6,#EEE9DA) no-repeat ;
+       font-size: 20px;
+       font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  .container{
+    white-space: nowrap;
+    
+  }
+ 
+  em,a{
+    display: inline;
+    margin-right: 10px;
+    white-space: nowrap;
+    text-decoration: none;
+    color:black;
+  }
+  em{
+    margin-left: 50px;
+    margin-right:600px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  a{
+    margin-right:20px;
+    margin-top: 200px;
+  }
+  pre{
+    margin-top:-500px;
+    margin-left: 50px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 30px;
+  }
+  b{
+    display: inline;
+  }
+.yo{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin-top: -10px;
+    font-size: 70px;
+}
+.yoyo{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin-top: -150px;
+    font-size: 20px;
+    margin-left:35px;
+}
+button{
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left:0px;
+    size: 100px;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #6096B4;
+    color: white;
+    display: inline;
+}
+.download-button {
+    margin-top: -10px;
+    padding: 10px 20px;
+    background-color:#6096B4;
+    color: white;
+    border-radius: 10px;
+  }
+.due{
+    display: inline;
+    align-items: center;
+}
+.download-button,.due{
+    margin-right: 50px;
+    white-space: nowrap;
+
+}
+.due{
+    margin-top: -10px;
+    margin-left: 50px;
+}
+
+
+.yello{
+    width:33vh;
+    height:40vh;
+    margin-left: 1300px;
+    margin-top: 200px;
+    border-radius: 5%;;
+    box-shadow: 0 0
+     10px 5px rgba(0, 0, 0, 0.5);
+}
+.integrations{
+    margin-right: 40px;
+    margin-top: -10px;
+    margin-left: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+   
+}
