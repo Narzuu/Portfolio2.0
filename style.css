@@ -9,7 +9,7 @@ html {
       height: 100%;
       fill: cover;
       width:100px;
-       background :linear-gradient(to bottom,#6096B4,#93BFCF,#BDCDD6,#EEE9DA) fit-content;
+       background :linear-gradient(to bottom,#6096B4,#93BFCF,#BDCDD6,#EEE9DA);
        font-size: 20px;
        font-family: 'Comic Sans MS', cursive, sans-serif;
   }
